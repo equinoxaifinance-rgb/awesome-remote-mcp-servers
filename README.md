@@ -72,6 +72,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Calendly | Scheduling | `https://mcp.calendly.com` | OAuth2.1 | [Calendly](https://calendly.com) |
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
+| Carrier Ledger | Specialised Dataset | `https://carrier-ledger.neoaethel.workers.dev/mcp` | Open | [Carrier Ledger](https://carrier-ledger.neoaethel.workers.dev/?ref=awesome-remote-mcp) |
 | Circleback | Meeting Notes | `https://circleback.ai/api/mcp` | OAuth2.1 | [Circleback](https://circleback.ai) |
 | ClickUp | Project Management | `https://mcp.clickup.com/mcp` | OAuth2.1 🔐 | [ClickUp](https://clickup.com) |
 | Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 & API Key | [Close](https://close.com/) |
@@ -86,6 +87,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Figma | Design | `https://mcp.figma.com/mcp` | OAuth2.1 🔐 | [Figma](https://figma.com) |
 | Fireflies.ai | Meeting Notes | `https://api.fireflies.ai/mcp` | OAuth2.1 | [Fireflies.ai](https://fireflies.ai) |
 | Find-A-Domain | Productivity | `https://api.findadomain.dev/mcp` | Open | [Find-A-Domain](https://findadomain.dev) |
+| FluxProof | Market Intelligence | `https://fluxproof.neoaethel.workers.dev/mcp` | API Key | [FluxProof](https://fluxproof.neoaethel.workers.dev/?ref=awesome-remote-mcp) |
 | Gamma | Design | `https://mcp.gamma.app/mcp` | OAuth2.1 | [Gamma](https://gamma.app) |
 | GitHub | Software Development | `https://api.githubcopilot.com/mcp` | OAuth2.1 🔐 | [GitHub](https://github.com) |
 | Globalping | Software Development | `https://mcp.globalping.dev/sse` | OAuth2.1 | [Globalping](https://globalping.io/) |
